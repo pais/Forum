@@ -1,0 +1,2 @@
+﻿// Seeing this comment implies that the code generation for file 'C:\Users\AHMET\Documents\Visual Studio 2010\Projects\MvcApplication3\MvcApplication3\Models\Model1.edmx'
+// failed. See the ErrorList for details.
